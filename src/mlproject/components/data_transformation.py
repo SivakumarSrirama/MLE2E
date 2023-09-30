@@ -67,7 +67,7 @@ class DataTransformation:
     def initiate_data_transormation(self,train_path,test_path):
         try:
             train_df=pd.read_csv(train_path)
-            print(list(train_df.columns))
+            # print(list(train_df.columns))
             test_df=pd.read_csv(test_path)
 
             logging.info("Reading the train and test file")

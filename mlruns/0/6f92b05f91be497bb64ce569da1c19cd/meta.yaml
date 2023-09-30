@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/DataScienceProjectE2E/MachineLearningE2E/mlruns/0/6f92b05f91be497bb64ce569da1c19cd/artifacts
+end_time: 1696078172563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f92b05f91be497bb64ce569da1c19cd
+run_name: sneaky-sponge-268
+run_uuid: 6f92b05f91be497bb64ce569da1c19cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696078158887
+status: 3
+tags: []
+user_id: root
